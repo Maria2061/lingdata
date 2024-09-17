@@ -1,1 +1,1 @@
-Папка для личной странички
+https://maria2061.github.io/lingdata/mywebpage/
